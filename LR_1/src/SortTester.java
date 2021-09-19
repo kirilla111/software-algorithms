@@ -31,10 +31,10 @@ public class SortTester {
         algorythms.BubbleSort(arrayGenerator.generateArray(LVL_3));
     }
 
-    @Test
-    public void Bubble_sort_test_lvl_4() {
-        algorythms.BubbleSort(arrayGenerator.generateArray(LVL_4));
-    }
+//    @Test
+//    public void Bubble_sort_test_lvl_4() {
+//        algorythms.BubbleSort(arrayGenerator.generateArray(LVL_4));
+//    }
 
 
     /* Insertion_sort */
@@ -57,10 +57,10 @@ public class SortTester {
         algorythms.InsertionSort(arrayGenerator.generateArray(LVL_3));
     }
 
-    @Test
-    public void Insertion_sort_test_lvl_4() {
-        algorythms.InsertionSort(arrayGenerator.generateArray(LVL_4));
-    }
+//    @Test
+//    public void Insertion_sort_test_lvl_4() {
+//        algorythms.InsertionSort(arrayGenerator.generateArray(LVL_4));
+//    }
 
 
     /* Selection_sort */
@@ -84,10 +84,10 @@ public class SortTester {
         algorythms.SelectionSort(arrayGenerator.generateArray(LVL_3));
     }
 
-    @Test
-    public void Selection_sort_test_lvl_4() {
-        algorythms.SelectionSort(arrayGenerator.generateArray(LVL_4));
-    }
+//    @Test
+//    public void Selection_sort_test_lvl_4() {
+//        algorythms.SelectionSort(arrayGenerator.generateArray(LVL_4));
+//    }
 
     /* Merge Sort */
 
