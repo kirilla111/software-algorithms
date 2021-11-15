@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ec568bab-808a-4755-ba6f-03ab50eac15f" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="ec568bab-808a-4755-ba6f-03ab50eac15f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LR_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LR_1/Algorythms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LR_1/Algorythms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LR_1/ArrayGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LR_1/ArrayGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LR_1/SortTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LR_1/SortTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortTester.java" afterDir="false" />
+    </list>
+>>>>>>> 48eafcd751c37a584054feba0988491d4b954153
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,10 +114,42 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="628" y="190" key="FileChooserDialogImpl" timestamp="1631779570846">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="628" y="190" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1631779570846" />
+    <state width="1408" height="16" key="GridCell.Tab.0.bottom" timestamp="1631279788977">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1408" height="16" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1631279788977" />
+    <state width="1408" height="16" key="GridCell.Tab.0.center" timestamp="1631279788977">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1408" height="16" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1631279788977" />
+    <state width="1408" height="16" key="GridCell.Tab.0.left" timestamp="1631279788977">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1408" height="16" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1631279788977" />
+    <state width="1408" height="16" key="GridCell.Tab.0.right" timestamp="1631279788977">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1408" height="16" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1631279788977" />
+    <state x="552" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1631220958551">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="552" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.870@0.0.1600.870" timestamp="1631220958551" />
+    <state x="230" y="56" key="new project wizard" timestamp="1631779589562">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="230" y="56" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1631779589562" />
   </component>
 </project>
