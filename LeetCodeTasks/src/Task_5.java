@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 public class Task_5 {
     /*
     You are given two non-empty linked lists representing two non-negative integers.
